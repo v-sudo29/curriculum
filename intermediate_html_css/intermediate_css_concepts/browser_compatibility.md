@@ -30,7 +30,7 @@ As companies compete for the market share, different browsers are using differen
 
 Because of these differences, your applications may behave differently in the browser. Due to Chrome dominance, the vast majority of applications are designed to work smoothly with Chromium, and providing as good of performance in other browsers is secondary.
 
-For your web development projects to have a broader reach, you must make sure that you're testing your web applications against the browsers which are most likely to be used by the users. Chrome, Safari, Firefox, and other Chromium-based browsers (Microsoft Edge, Brave, etc.) are more common among regular users. But you may find you need to support less common ones (Like Internet Explorer) as well depending on the user base or the company you work for. For Chromium browsers, if it works in Chrome, it should work in other related browsers as well.
+For your web development projects to have a broader reach, you must make sure that you're testing your web applications against the browsers which are most likely to be used by the users. Chrome, Safari, Firefox, and other Chromium-based browsers (Microsoft Edge, Brave, etc.) are more common among regular users. But you may find you need to support less common ones (like Internet Explorer) as well depending on the user base or the company you work for. For Chromium browsers, if it works in Chrome, it should work in other related browsers as well.
 
 ### Browser Releases and New CSS Features
 
@@ -40,7 +40,7 @@ When the web browsers such as Nexus and Netscape were released, there was no suc
 
 Today, as the standards around the web evolve and change, and web developers begin implementing new features in their codebase, the browsers must provide support for those new features. If the user experience is impacted by the lack of support in the browsers, the users might find their way to the competitor.
 
-### When Is It Safe to Use New Features
+### When is it Safe to Use New Features
 
 As exciting as it is to implement new features, there is a risk of rushing. It would not be a positive experience for your users to find that, for example, your application used to work well in Firefox, but due to the changes in the codebase it is now unusable in Firefox but works well in Safari. Thankfully, there is a tool that can help you prevent this situation.
 
